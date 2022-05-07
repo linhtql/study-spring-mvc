@@ -10,7 +10,7 @@
 <p>Front Controller gửi một page view tới trình duyệt để hiển thị nó cho người dùng </p>
 <p>Trong Mô hình MVC thì:</p>
 <ul>
-<li>Model: là các file POJO, Service, DAO thực hiện truy cập database, xử lý business</li>
-<li>View: là các file JSP, html…</li>
-<li>Controller: là Dispatcher Controller, Handler Mapping, Controller – thực hiện điều hướng các request.</li>
+  <li><b>Model</b>: là các file POJO, Service, DAO thực hiện truy cập database, xử lý business</li>
+<li><b>View</b>: là các file JSP, html…</li>
+<li><b>Controller</b>: là Dispatcher Controller, Handler Mapping, Controller – thực hiện điều hướng các request.</li>
 </ul>
