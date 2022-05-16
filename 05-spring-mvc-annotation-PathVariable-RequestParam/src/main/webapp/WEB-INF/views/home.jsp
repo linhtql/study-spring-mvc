@@ -7,7 +7,7 @@
 <h2>home.jsp</h2>
 <a href="test1/1">/test1/1</a>
 <br />
-<a href="test2/2/kai">/test2/2/kai</a>
+<a href="test2/2/linhtql">/test2/2/linhtql</a>
 <br />
 <fieldset>
     <legend>/test3?id=&name=</legend>
